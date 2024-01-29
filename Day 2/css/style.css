@@ -1,0 +1,39 @@
+body{
+    background-color: #7B66FF;
+    height: 2000px;
+    font-family: segoe UI light;
+}
+
+.home{
+    background-color: #5FBDFF;
+    text-align: center;
+    padding: 20px;
+}
+.div1{
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+    background-color:blueviolet;
+    border: 3px white solid;
+}
+img{
+    width: 100%;
+}
+.btn{
+    background-color: #5FBDFF;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+}
+.container{
+    height: 450px;
+    background-image: url(../images/img-1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 50px;
+}
